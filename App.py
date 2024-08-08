@@ -41,4 +41,4 @@ def conectDBD():
            conn.close()       
         sleep(3)  
 
-    
+            sleep(3)  
